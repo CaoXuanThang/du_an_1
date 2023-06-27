@@ -22,19 +22,19 @@
 //     'database' => 'duan1_shop_db',
 // );
 
-$db = array(
-    'hostname' => '202.92.5.49',
-    'username' => 'gmkbrjnqhosting_nhom1',
-    'password' => 'zA1GJuGNzA8F',
-    'database' => 'gmkbrjnqhosting_nhom1',
-);
-
 // $db = array(
-//     'hostname' => 'localhost',
-//     'username' => 'root',
-//     'password' => '',
+//     'hostname' => '202.92.5.49',
+//     'username' => 'gmkbrjnqhosting_nhom1',
+//     'password' => 'zA1GJuGNzA8F',
 //     'database' => 'gmkbrjnqhosting_nhom1',
 // );
+
+$db = array(
+    'hostname' => 'localhost',
+    'username' => 'root',
+    'password' => '',
+    'database' => 'duan1',
+);
 
 
 
